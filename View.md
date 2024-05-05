@@ -1,2 +1,2 @@
-View Ebsite Netlify :
+View Website Netlify :
 https://web-potofolio.netlify.app/
